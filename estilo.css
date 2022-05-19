@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: infinite;
+    src: url(infinite.ttf);
+
+
+}
+
+p{
+    font-family: infinite;
+}
